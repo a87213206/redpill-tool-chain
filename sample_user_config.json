@@ -11,6 +11,7 @@
         "SasIdxMap": "0"
     },
     "synoinfo": {},
+        "maxlanport": "3"
     "ramdisk_copy": {},
     "extensions": []
 }
