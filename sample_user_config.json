@@ -3,6 +3,7 @@
         "pid": "0x6300",
         "vid": "0x13FE",
         "sn": "VD5NVIR3ZLRLE",
+        "netif_num":"2",
         "mac1": "503EAA12F8DB",
         "mac2": "00235461D627",
         "DiskIdxMap": "00",
