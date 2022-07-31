@@ -1,9 +1,12 @@
 {
     "extra_cmdline": {
-        "pid": "0x0001",
-        "vid": "0x46f4",
-        "sn": "1234XXX123",
-        "mac1": "XXYYXXYYXXYY"
+        "pid": "0x6300",
+        "vid": "0x13FE",
+        "sn": "VD5NVIR3ZLRLE",
+        "mac1": "503EAA12F8DB"
+        "DiskIdxMap":"00"
+        "SataPortMap":"5"
+        "SasIdxMap":"0"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
