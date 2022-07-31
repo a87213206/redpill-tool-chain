@@ -4,9 +4,10 @@
         "vid": "0x13FE",
         "sn": "VD5NVIR3ZLRLE",
         "mac1": "503EAA12F8DB"
-        "DiskIdxMap":"00"
-        "SataPortMap":"5"
-        "SasIdxMap":"0"
+        "mac2": "00235461D627"
+        "DiskIdxMap": "00"
+        "SataPortMap": "5"
+        "SasIdxMap": "0"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
